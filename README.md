@@ -85,3 +85,7 @@ BibTeX citation::
         title = {Generic and Open-Source Exergy Analysis&mdash;Extending the Simulation Framework TESPy},
         journal = {Energies}
     }
+
+## Authors
+- Urbano Tataranni
+- Jihad Jundi
